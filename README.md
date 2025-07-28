@@ -1,7 +1,7 @@
 # stp-api
 API to read and access dimensions from a STEP file
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR-USERNAME/YOUR-REPO)
+[![Deploy to Render]](https://render.com/deploy?repo=https://github.com/KKA-AIM/stp-api)
 
 # Setup Guide
 
