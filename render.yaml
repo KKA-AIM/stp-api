@@ -1,0 +1,4 @@
+services:
+  - type: web
+    env: docker
+    autoDeploy: true
