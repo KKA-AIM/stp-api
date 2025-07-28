@@ -1,4 +1,5 @@
 services:
   - type: web
+    name: stp-reader-api
     env: docker
     autoDeploy: true
