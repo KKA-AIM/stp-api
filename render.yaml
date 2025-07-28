@@ -2,4 +2,5 @@ services:
   - type: web
     name: stp-reader-api
     env: docker
+    plan: free
     autoDeploy: true
