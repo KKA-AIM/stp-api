@@ -1,6 +1,8 @@
 # stp-api
 API to read and access dimensions from a STEP file
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR-USERNAME/YOUR-REPO)
+
 # Setup Guide
 
 1. Clone this repo to your GitHub account (or fork it)
