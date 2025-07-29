@@ -62,6 +62,8 @@ You can then use the `<url>/analyse` in a **POST** method and upload the `.stp` 
   - **Input Data Field Name**: `<The name of the incoming field containing the binary file data to be processed>`
 
 ⚠️ Make sure the binary file input (from a previous node) matches the field name you set here.
+<br><br>
+⚠️ Replace `<url>` with the actual Render URL you get after deployment.
 
 - Example Response:
 ```json
@@ -71,3 +73,4 @@ You can then use the `<url>/analyse` in a **POST** method and upload the `.stp` 
   "depth": 9.10,
   "height": 12.34
 }
+```
