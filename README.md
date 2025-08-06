@@ -39,14 +39,14 @@ If you're comfortable with Docker, feel free to deploy it on your own infrastruc
    - **Region**: Choose the region closest to your location
 
 9. Click **“Create Web Service”** and wait for the deployment to complete.
+    
+10. Render will give you a **public HTTPS URL** like:
+   <br><br> `<url>` = `https://your-app-name.onrender.com`
+   <br><br> Navigate to `<url>/docs` to ensure the FastAPI service is running. 
 
 ---
 
 ## 🔗 After Deployment
-
-Render will give you a **public HTTPS URL** like:
-
-`<url>` = `https://your-app-name.onrender.com`
 
 You can then use the `<url>/analyse` in a **POST** method and upload the `.stp` file.
 
